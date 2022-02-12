@@ -455,3 +455,8 @@ button[type="submit"]:hover {
 #group_form_R label>a {
     text-decoration: underline;
 }
+
+/** -------- PRINCIPAL.PHP -------- **/
+#see_more a{
+   background-color: #ea4c89;
+}
